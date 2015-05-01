@@ -40,6 +40,7 @@ GNU social is a free social distributed networking platform. It helps people in 
 * Esperanto
 * Spanish
 * English
+* German -- contributed by [Frosch](http://blog.atari-frosch.de/)
 
 Your language isn't listed? Then feel free to and help make this plugin more accessible!
 
