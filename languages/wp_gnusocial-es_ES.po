@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-01 10:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/wp-gnusocial-klaso.php:68 includes/wp-gnusocial-klaso.php:79
+#: includes/admin/wp-gnusocial-klaso-admin.php:54
+#: includes/admin/wp-gnusocial-klaso-admin.php:65
+#: includes/wp-gnusocial-klaso.php:81 includes/wp-gnusocial-klaso.php:92
+#: includes/wp-gnusocial-klaso.php:81 includes/wp-gnusocial-klaso.php:92
+#: includes/admin/wp-gnusocial-klaso-admin.php:54
+#: includes/admin/wp-gnusocial-klaso-admin.php:65
+msgid "Ne permesite"
+msgstr "Prohibido"
+
+#: includes/wp-gnusocial-klaso.php:290 includes/wp-gnusocial-klaso.php:298
+#: includes/wp-gnusocial-klaso.php:357 includes/wp-gnusocial-klaso.php:357
+msgid "Forigu+tion+ĉi+kaj+skribu+vian+komenton"
+msgstr "Borra+esto+y+escribe+tu+comentario"
+
+#: includes/wp-gnusocial-klaso.php:293
+msgid "Alklaku ĉi tie por aldoni novan komenton"
+msgstr "Haz click aquí para añadir un comentario"
+
+#: includes/admin/wp-gnusocial-klaso-admin.php:104
+#: includes/admin/wp-gnusocial-klaso-admin.php:105
+#: includes/admin/wp-gnusocial-klaso-admin.php:104
+#: includes/admin/wp-gnusocial-klaso-admin.php:105
+msgid "WP-GNU social"
+msgstr "WP-GNU social"
+
+#: includes/admin/wp-gnusocial-klaso-admin.php:139
+#: includes/admin/wp-gnusocial-klaso-admin.php:139
+msgid "API-url de via nodo"
+msgstr "URL del API de tu nodo"
+
+#: includes/admin/wp-gnusocial-klaso-admin.php:143
+#: includes/admin/wp-gnusocial-klaso-admin.php:143
+msgid "Salutnomo"
+msgstr "Usuario"
+
+#: includes/admin/wp-gnusocial-klaso-admin.php:147
+#: includes/admin/wp-gnusocial-klaso-admin.php:147
+msgid "Pasvorto"
+msgstr "Contraseña"
+
+#: includes/admin/settings.php:60 includes/admin/settings.php:60
+msgid "Ekzemple: http://lamatriz.org/api/statuses/update.xml"
+msgstr "Ejemplo: http://lamatriz.org/api/statuses/update.xml"
+
+#: includes/admin/settings.php:62 includes/admin/settings.php:62
+msgid ""
+"Tiu ĉi datumo ŝanĝiĝos depende de la url de via nodo de GNU social. Se la "
+"url de via nodo estas http://mianodo.org tiam vi devas enmeti jenan API-"
+"urlon: http://mianodo.org/api/statuses/update.xml"
+msgstr ""
+"Este dato va a variar dependiendo de la url de tu nodo GNU social. Si la url "
+"de tu nodo es http://mianodo.org entonces tienes que introducir esta url: "
+"http://mianodo.org/api/statuses/update.xml"
+
+#: includes/admin/settings.php:17
+msgid "WP-GNU social: Agordoj"
+msgstr "WP-GNU social: Configuración"
+
+#: includes/admin/settings.php:45 includes/wp-gnusocial-klaso.php:227
+#: includes/wp-gnusocial-klaso.php:227
+msgid "Konekto kun GNU social"
+msgstr "Conexión con GNU social"
+
+#: includes/wp-gnusocial-klaso.php:301 includes/wp-gnusocial-klaso.php:360
+#: includes/wp-gnusocial-klaso.php:360
+msgid "Klaku ĉi tie por sendi komenton per"
+msgstr "Haz click aquí para enviar un comentario desde"
+
+#: includes/wp-gnusocial-klaso.php:303 includes/wp-gnusocial-klaso.php:362
+#: includes/wp-gnusocial-klaso.php:362
+#, php-format
+msgid ""
+"Se vi havas uzanton ĉe %s vi povos rekte komenti. Se vi havas "
+"<strong>uzanton ĉe alia <a href=\"http://www.skilledtests.com/wiki/"
+"List_of_Independent_Statusnet_Instances\">nodo de GNU social</strong></a>, "
+"vi devas sekvi <a href=\"%s\">la uzanton %s</a> por ke la konversacio aperu "
+"en via nodo kaj vi povu aldoni komentojn al ĝi."
+msgstr ""
+"Si tienes un usuario en %s podrás comentar directamente. Si tienes un "
+"<strong>usuario en otro <a href=\"http://www.skilledtests.com/wiki/"
+"List_of_Independent_Statusnet_Instances\">nodo de GNU social</strong></a>, "
+"tienes que seguir <a href=\"%s\">al usuario %s</a> para que la conversación "
+"aparezca en tu nodo y poder comentar desde ahí."
+
+#: includes/wp-gnusocial-klaso.php:227
+msgid ""
+"Preskaŭ farite! Konektu vian blogon kun GNU social kaj publikigu novan "
+"afiŝon por ekuzi la novan komentosistemon."
+msgstr "Casi listo! Conecta tu blog con GNU social y publica un nuevo "
+"post para comenzar a utilizar el nuevo sistema de comentarios."
