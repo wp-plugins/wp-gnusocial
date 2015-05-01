@@ -7,11 +7,11 @@ Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-An GNU social based comment system for WordPress
+GNU social based comment system for WordPress
 
 == Description ==
 
-An [GNU social](https://gnu.io/social/) based comment system. After installing and configurating the plugin, evey new post will start a new conversation in your GNU social node. The conversation will be displayed and locally saved as usual wordpress comments in your blog. Everybody with an user in a node with someone subscribed to your GNU social user (i.e. your node) can comment your post directly from its own GNU social node.
+[GNU social](https://gnu.io/social/) based comment system. After installing and configurating the plugin, evey new post will start a new conversation in your GNU social node. The conversation will be displayed and locally saved as usual wordpress comments in your blog. Everybody with an user in a node with someone subscribed to your GNU social user (i.e. your node) can comment your post directly from its own GNU social node.
 
 == Installation ==
 
